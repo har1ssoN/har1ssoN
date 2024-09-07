@@ -25,12 +25,30 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/har1ssoN/har1ssoN/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/har1ssoN/count.svg?"  />
 </div>
+
+###
+
+<p align="left">Contacts</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/harisson-magalhaes-732650259/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="wwwharissonmagalhaes@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="harisson.magalhaes.24@cjr.org.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/har1ssoN/har1ssoN/output/snake.svg" alt="Snake animation" />
 
 ###
